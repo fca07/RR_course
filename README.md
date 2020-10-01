@@ -15,3 +15,4 @@ https://www.finex.co/how-to-display-html-in-github/
 
 # View html
 https://fca07.github.io/RR_course/stringSearchInFiles.html
+https://fca07.github.io/RR_course/nutzenbewertungen.html
